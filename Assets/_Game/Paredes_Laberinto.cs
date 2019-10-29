@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Paredes_Laberinto : MonoBehaviour
 {
-
+    //Hola
     public enum typePared
     {
         PARED = 1,
